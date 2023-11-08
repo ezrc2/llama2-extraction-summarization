@@ -4,8 +4,6 @@ from bs4 import BeautifulSoup
 from bs4.element import Comment
 import requests
 
-API_KEY = ...
-SEARCH_ENGINE_ID = ...
 
 headers = {'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36'}
 
@@ -47,22 +45,34 @@ def extract_paragraphs_trafilatura(url, include_formatting=True):
     return result
 
 def extract_paragraphs(url):
-    downloaded = fetch_url(url)
-    try:    
-        result = extract(downloaded, config=config, output_format='xml',
-                        include_links=True, include_formatting=True)
-    except:
-        return []
-    if result is None:
-        return []
-
-    soup = BeautifulSoup(result, 'lxml')
+    page = requests.get(url, headers=headers)
+    soup = BeautifulSoup(page.text, 'lxml')
     paragraphs = []
     for p in soup.find_all('p'):
         text = p.get_text(strip=True, separator='\n')
         if '.' in text:
             paragraphs.append(text)
     return paragraphs        
+
+def extract_paragraphs_lists(url):
+    page = requests.get(url, headers=headers)
+    soup = BeautifulSoup(page.text, 'lxml')
+    paragraphs = []
+    for p in soup.find_all('p'):
+        text = p.get_text(strip=True, separator='\n')
+        if '.' in text:
+            paragraphs.append(text)
+    elements = []
+    uls = soup.find_all('ul')
+    for ul in uls:
+        for li in ul.findAll('li'):
+            text = li.get_text(strip=True, separator='\n')
+            arr = text.split('\n')
+            for a in arr:
+                if '.' in a:
+                    elements.append(a)
+    total = paragraphs + elements
+    return total
 
 
 def get_query_passages(school_name, queries):
