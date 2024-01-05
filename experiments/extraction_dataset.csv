@@ -1,0 +1,1078 @@
+url,text
+https://cs.illinois.edu/research/areas/artificial-intelligence,"The study of systems that behave intelligently, artificial intelligence includes several key areas where our faculty are recognized leaders: computer vision, machine listening, natural language processing, machine learning and robotics.
+
+Computer vision systems can understand images and video, for example, building extensive geometric and physical models of cities from video, or warning construction workers about nearby dangers. Natural language processing systems understand written and spoken language; possibilities include automatic translation of text from one language to another, or understanding text on Wikipedia to produce knowledge about the world. Machine listening systems understand audio signals, with applications like speech recognition, acoustic monitoring, or transcribing polyphonic music automatically. Crucial to modern artificial intelligence, machine learning methods exploit examples in order to adjust systems to work as effectively as possible. Robotics puts artificial intelligence into practice using machines that perceive and interact with the physical world.
+
+Strengths and Impact
+The AI group at Illinois is strong, diverse, and growing. It combines expertise in core strengths with promising new research directions.
+
+Research Focus
+
+In machine learning, AI group faculty are studying theoretical foundations of deep and reinforcement learning; developing novel models and algorithms for deep neural networks, federated and distributed learning; as well as investigating issues related to scalability, security, privacy, and fairness of learning systems. Computer vision faculty are developing novel approaches for 2D and 3D scene understanding from still images and video; joint understanding of images and language; low-shot learning (recognition of rare or previously unseen categories); transfer learning and domain adaptation (adapting pre-trained systems to a changing data distribution); and image generation and editing approaches based on generative neural networks. Natural language processing faculty are working on topics such as grounded language understanding, information extraction and text mining, and knowledge-driven natural language generation for applications such as scientific discovery. Machine listening faculty are working on sound and speech understanding, source separation, and enhancement, as well as applications in music and computing. Robotics faculty are developing novel planning algorithms for grasping, locomotion, and navigation; investigating multi-robot systems; as well as pursuing high-impact applications of robotics to medicine, agriculture, home care, and autonomous driving.
+
+Research Awards
+
+The excellence and impact of the AI group’s research has been recognized by a number of awards, including NSF CAREER (Amato, Hauser, Hockenmaier, Hoiem, Ji, Koyejo, Lazebnik, Smaragdis, Telgarsky), Sloan Research Fellowship (Hoiem, Koyejo, Lazebnik), Microsoft Research Faculty Fellowship (Lazebnik), AFOSR Young Investigator (Chowdhary), IEEE PAMI Significant Young Researcher Award (Hoiem), MIT TR-35 (Li, Smaragdis), Intel Rising Star Award (Li), “Young Scientist” selected by World Economic Forum (Ji), “AI’s Top 10 to Watch” Award by IEEE Intelligent Systems (Ji), ACM Fellow (Amato, Forsyth, Warnow), IEEE Fellow (Amato, Forsyth, Lazebnik, Smaragdis), IEEE Technical Achievement Award (Forsyth), and Packard Fellowship (Warnow).
+
+In the last few years, AI group members received a number of best paper awards, including: IEEE Signal Processing Society Best Paper Award (Smaragdis, 2018 and 2020), IEEE MLSP Best Paper Award (Smaragdis, 2017), Best Demo Paper Award at the 58th Annual Meeting of the Association for Computational Linguistics (Ji, 2020).
+
+Group Research
+
+AI group research has led to a number of startups. Derek Hoiem is co-founder and Chief Science Officer of Reconstruct, which visually documents construction sites, matching images to plans and analyzing productivity and risk for delay. Girish Chowdhary  is co-founder and CTO of EarthSense, a startup creating machine learning and robotics solutions for agriculture, whose work was featured in a 2020 New York Times article. David Forsyth advises a number of startups focusing on augmented reality and image synthesis, including Lightform, Revery, and Depix.
+
+AI faculty are playing key roles in two $20 million AI institutes recently funded by the National Science Foundation and the U.S. Department of Agriculture’s National Institute of Food and Agriculture. The AI Institute for Future Agricultural Resilience, Management, and Sustainability (AIFARMS), led by Vikram Adve from CS, features Romit Chowdhary as Associate Director of Research, with other investigators including Alexander Schwing, Katherine Driggs-Campbell, Indranil Gupta, Kris Hauser, Julia Hockenmaier, Heng Ji, Sanmi Koyejo, and Paris Smaragdis. The AI Institute for Molecular Discovery, Synthetic Strategy, and Manufacturing, led by Huimin Zhao from Chemical Engineering, involves Heng Ji and Jian Peng as investigators.
+
+Research Efforts and Groups
+Beckman Institute
+Center for Artificial Intelligence Innovation (NCSA)
+Deep Learning Major Research Instrument Project (NCSA)
+Natural Language Processing Group
+Speech and Language Engineering Group
+Center for Autonomy
+Robotics Group
+Seminars
+ Robotics Seminar Series (Friday)and student mailing list
+NLP: reading group, seminar
+Computer Vision: mailing list, vision lunch (Thursday), external speaker series (Tuesday)
+Illinois Computer Science Speaker Series: brings prominent leaders and experts to campus to share their ideas and promote conversations about important challenges and topics in the discipline.
+Faculty & Affiliate Faculty
+Nancy M. Amato
+Robot Motion and Task Planning, Multi-Agent Systems, Crowd Simulation
+
+Mark A. Anastasio, Department of Bioengineering
+Machine Learning Methods for Imaging Science, Image Reconstruction, Deep Learning for Inverse Problems
+
+Arindam Banerjee
+Machine Learning, Learning Theory, Optimization, Generative Models, Sequential Decision Making, Physics-Guided Machine Learning, Differential Privacy
+
+Timothy Bretl, Aerospace Engineering
+Motion Planning and Control
+
+Kevin C. Chang
+Machine Learning, Natural Language Processing, AI Applications, Data Management Support for AI
+
+Girish Chowdhary
+Control, Autonomy and Decision Making, Vision and LIDAR Based Perception, GPS Denied Navigation
+
+David Dalpiaz
+Computational Statistics, Reproducible Research, Statistics Education, Machine Learning
+
+Payam Delgosha
+Graphs, Information Theory, Algorithms, Machine Learning
+
+Jana Diesner, School of Information Sciences
+Social Network Analysis, Natural Language Processing, Machine Learning
+
+Minh N. Do, Electrical & Computer Engineering
+Signal Processing, Computational Imaging, Machine Perception, Data Science
+
+Katherine Driggs-Campbell, Electrical & Computer Engineering
+Autonomous Vehicles, Validating Autonomous Systems, Interactive Control Policies for Intelligent Systems in Multi-Agent Settings
+
+Margaret Fleck
+Computational Linguistics
+
+David A. Forsyth
+Computer Vision, Object Recognition, Scene Understanding
+
+Roxana Girju, Linguistics
+Computational Linguistics
+
+Mani Golparvar-Fard, Civil Engineering
+Computer Vision Analytics for Building and Construction Performance Monitoring
+
+Liangyan Gui
+Computer Vision, Machine Learning, Motion Analysis, Robotics
+
+Saurabh Gupta, Electrical & Computer Engineering
+Computer Vision, Robotics, Machine Learning
+
+Dilek Hakkani Tur
+Conversational AI and Natural Language Processing
+
+Jiawei Han
+Machine Learning, Natural Language-Based Text Analysis, Text Summarization
+
+Mark Hasegawa-Johnson, Electrical & Computer Engineering
+Statistical Speech Technology
+
+Kris Hauser
+Motion Planning, Optimal Control, Integrated Planning and Learning, Robot Systems
+
+Julia Hockenmaier
+Natural Language Processing, Computational Linguistics 
+
+Derek Hoiem
+Computer Vision, Object Recognition, Spatial Understanding, Scene Interpretation 
+
+Ravi Iyer, Electrical & Computer Engineering
+Probabilistic Graphical Models; Deep Learning; Data Science; Health Analytics; Safety, Reliablity and Security of Autonomous Systems; Reinforcement Learning
+
+Reyhaneh Jabbarvand
+ML4Code, ML interpretability, testing, and debugging
+
+Heng Ji
+Natural Language Processing, especially on Information Extraction and Knowledge-driven Natural Language Generation, Text Mining, Knowledge Graph Construction for Scientific Discovery
+
+Nan Jiang
+Reinforcement Learning, Machine Learning, Sample Complexity Analyses
+
+Daniel Kang
+Analytics with Machine Learning, Databases with Machine Learning, Machine Learning Security, Machine Learning + Cryptography 
+
+Karrie Karahalios
+HCI for ML, AI Explainability
+
+Volodymyr Kindratenko, NCSA
+Cyberinfrastructure for Machine Learning, Machine Learning Systems Research, Deep Learning Applications
+
+Fan Lai
+Systems for Machine Learning, Machine Learning for Systems
+
+Svetlana Lazebnik
+Computer Vision, Scene Understanding, Visual Learning, Vision and Language
+
+Bo Li
+Adversarial Machine Learning, Robust Learning
+
+Ge Liu
+Artificial Intelligence
+
+Kenton McHenry, NCSA
+Cyberinfrastructure for Digital Preservation, Auto-Curation, and Managing Unstructured Digital Collections 
+
+Marco Morales
+Motion Planning and Control, Autonomous Robots
+
+Jian Peng
+Machine Learning and Optimization
+
+Jim Rehg
+Computer Vision, Ego4D, VR/AR, Mobile Health, Health AI, Machine Learning, Developmental Machine Learning, Behavioral Imaging
+
+John Reid
+Field Robotics, Autonomous Systems Engineering, Machine Perception, Computer Vision
+
+Lane Oscar Schwartz, Linguistics
+Machine Translation, Computational Morphology & Syntax
+
+Alexander Schwing, Electrical & Computer Engineering
+Machine Learning, Computer Vision
+
+Gagandeep Singh
+Certified Artificial Intelligence, Adversarial Robustness, Neural Network Verification, Safe Deep Learning
+
+Paris Smaragdis
+Machine Learning for Audio, Speech and Music; Signal Processing; Source Separation; Sound Recognition and Classification
+
+Jimeng Sun
+Deep Learning for Drug Discovery, Clinical Trial Optimization, Computational Phenotyping, Clinical Predictive Modeling, Mobile Health and Health Monitoring, Tensor Factorization, and Graph Mining
+
+Matus Telgarsky
+Deep Learning Theory
+
+Hanghang Tong
+Explainable AI, Fairness in AI, Adversarial Maching Learning
+
+Gokhan Tur
+Conversational AI
+
+Shenlong Wang
+Computer Vision, Robotics
+
+Yuxiong Wang
+Computer Vision, Machine Learning, Meta-Learning, Robotics
+
+Tandy Warnow
+Machine Learning in Computational Genomics, Ensemble Methods, Statistical Estimation
+
+Jiaxuan You
+Machine Learning for Graphs and Databases, Foundation Models, Large Language Models, Generative AI, AI Agents
+Minjia Zhang
+Efficient DL/AI Systems and Algorithms, Parallel Computing and Runtime, Natural Language Processing, AI for Science
+
+Tong Zhang
+Machine Learning Theory and Applications, Optimization, Reinforcement Learning, Robustness, Generative AI, Large Language Models
+
+Han Zhao
+Machine Learning, Representation Learning, Algorithmic Fairness, Probabilistic Models
+
+Adjunct Faculty
+Eyal Amir, Parknav
+Machine Learning, Automatic Reasoning
+
+Sanmi Koyejo
+Machine Learning, Neuroimaging, Biomedical Imaging
+
+Dan Roth, University of Pennsylvania
+Machine Learning, Natural Language Processing, Knowledge Representation, Reasoning "
+https://cs.illinois.edu/research/areas/data-and-information-systems,"The rapid growth of big data creates unprecedented demand and opportunities for developing powerful intelligent data and information systems that help people organize, search, analyze, and manage data, information and knowledge.
+
+Our faculty work on a wide range of research problems, tackling the many challenges associated with developing such intelligent systems and their applications. Research includes structuring and organizing massive data and information, helping people search and find relevant data and information; mining actionable knowledge from massive, heterogeneous typed data; optimizing the entire workflow of data access, analytics, and exploration; analyzing large social/information networks, optimizing human-computer collaboration centered on data, and exploring broad data-intensive applications.
+
+Our faculty work closely with industry, and many of our algorithms are used in a wide range of information system applications, especially in database and data analytics systems, data mining systems, search engines, and web information service systems.
+
+Strengths and Impact
+DAIS faculty have created an active, dynamic and collaborative research environment, leading a large group of graduate students, pioneering research in the frontiers of database systems, data mining, information retrieval, Web information systems, as well as their social and scientific applications, and generating impactful results.
+
+PhD Placements
+
+Many graduates are professors in major U.S. or international universities (e.g., Georgia Tech, Univ. of Michigan, UCLA, UCSD, UCSB, USC, Penn State, Purdue, Notre Dame, Univ of Virginia, Vanderbilt) and industry research labs (e.g., Google Research, IBM Research, Microsoft Research, Adobe Research), and major industry (e.g., Google, Facebook, Microsoft) and received prominent awards (e.g., NSF Career awards, KDD/SIGMOD Dissertation Awards, KDD innovation awards).
+
+Awards
+
+The research results generated by the DAIS groups have been highly cited and some results have been popularly used in industry and academia and collected in textbooks. DAIS faculty have been highly active in the corresponding international research communities, winning many research paper awards, major research awards, and student awards, invited to deliver keynote conference speeches and conference tutorials, and claim competition awards on multiple occasions.
+
+Research Efforts and Groups
+Carl R. Woese Institute for Genomic Biology (IGB)
+Comp-Gen Initiative in the Carl R. Woese Institute for Genomic Biology
+Data Analytics Subprogram in the Advanced Digital Sciences Center
+KnowEnG, an NIH Center for Excellence for Big Data to Knowledge (BD2K) in the Carl R. Woese Institute for Genomic Biology
+Midwest Big Data Hub
+Seminars
+The DAIS Seminar features invited researchers, DAIS faculty and graduate students. Seminars will be announced on the DAIS mailing list (as are other items of interest to the DAIS community). It is quick and easy to subscribe to the DAIS mailing list.
+Illinois Computer Science Speaker Series: brings prominent leaders and experts to campus to share their ideas and promote conversations about important challenges and topics in the discipline.
+Faculty & Affiliate Faculty
+Abdussalam Alawini
+Data Provenance, Scientific Data Management, Data Citation, Workflow Management, Machine Learning
+
+Arindam Banerjee
+Data Mining, Spatio-temporal Data Analysis, High-dimensional Models, Applications in Climate Science, Ecology, Recommendation Systems
+
+Catherine Blake, Graduate School of Library & Information Science
+Text Mining, Information Synthesis, Collaborative Information Behaviors, Recognizing Textual Entailment, Summarization, Evidence-Based Discovery, Meta-Analysis, Socio-Technical Systems
+
+Robert Brunner, Astronomy
+Cosmological Data Mining
+
+George Chacko
+Scientometrics, Knowledge Diffusion, Data Mining, Network Analysis
+
+Kevin C. Chang
+Data Mining, Database Systems, Information Retrieval, Web Search/Mining, Social Media Analytics
+
+Wendy Cho, Political Science
+Computational Social Science, Data Science, Machine Learning
+
+Jana Diesner, School of Information Sciences
+Social Computing, Computational Social Science, Human-Centered Data Science
+
+Roxana Girju, Linguistics
+Natural Language Processing/Computational Linguistics, especially Semantics and Pragmatics (language use) with application to Conversational AI, Dialogue Systems, Behavior Analytics, Affective Computing
+
+Jiawei Han
+Data Mining, Text Mining, Information Networks, Database Systems, Data Analytics, Data Science Applications
+
+Jingrui He, School of Information Sciences
+Data Mining, Heterogeneous Learning, Rare Category Analysis, Healthcare
+
+Heng Ji
+Natural Language Processing, especially on Information Extraction, Knowledge-driven Natural Language Generation, Text Mining, and Knowledge Graph Construction for Scientific Discovery
+
+
+
+
+Daniel Kang
+Analytics with Machine Learning, Databases with Machine Learning, Machine Learning Security, Machine Learning + Cryptography 
+
+Daniel S. Katz, NCSA
+Many-Task Computing and Workflows, Parallel and Distributed Computing, Sustainable and Open Research Science Software
+
+Bertram Ludaescher, Graduate School of Library Information Science
+Data and Knowledge Management, Scientific Workflow Systems, Data Curation  
+
+Livingston McPherson
+Robotics, Human-Computer Interaction, Immersive Computing (AR/VR), Game Design
+
+Yongjoo Park
+Database Systems, Big Data Analytics, Approximate Computing, Machine Learning for Systems
+
+Pablo Robles-Granda
+Machine Learning & Data Science, Health Informatics, Network Science
+
+Bruce Schatz, Medical Information Science
+Medical Informatics, Mobile Health
+
+Brad Solomon
+Data Structures
+
+Jimeng Sun
+Deep Learning for Drug Discovery, Clinical Trial Optimization, Computational Phenotyping, Clinical Predictive Modeling, Mobile Health and Health Monitoring, Tensor Factorization, and Graph Mining
+
+Hari Sundaram
+Network Analysis, Behavioral Modeling, Applications of Game Theory
+
+Hanghang Tong
+Data Mining, Network and Graph Mining
+
+Shaowen Wang, Geography and Geographic Information Science
+Computational and Geographic Information Science; CyberGIS; Multi-Scale Geospatial Problem Solving
+
+Tandy Warnow
+Scientometrics, Bibliometrics, Data Science, Statistical Inference, Graph Algorithms, Historical Linguistics
+
+Ouri Wolfson, University of Illinois Chicago Computer Science
+Spatial Databases, Computational Transportation, Location-Based Services, Mobile Data Management, Connectomics
+
+Jiaxuan You
+Machine Learning for Graphs and Databases, Foundation Models, Large Language Models, Generative AI, AI Agents
+
+ChengXiang Zhai
+Intelligent Information Systems, Information Retrieval, Data Mining, Big Data Applications
+
+Tong Zhang
+Machine Learning Theory and Applications, Optimization, Reinforcement Learning, Robustness, Generative AI, Large Language Models
+
+Adjunct Faculty
+Aditya Parameswaran, University of California, Berkeley
+Data Management, Data Mining, Database Theory, Interactive Systems, Crowdsourced Computation 
+
+Dan Roth, University of Pennsylvania
+Knowledge Representation, Natural Language Processing, Machine Learning "
+https://cs.illinois.edu/academics/undergraduate/registration,"Undergraduate majors course registration process and frequently asked questions.
+Timeline
+
+Registration Checklist
+
+How to Use the Online Registration System
+
+Planning for Next Semester and the Future
+
+Registration Advising, Faculty Mentors, & Piazza
+
+CS Course Restrictions & Enrollment Caps
+
+Prepare for Graduation
+
+Registration Error Messages
+
+Timeline
+When is Registration?
+Early registration for classes for each term occurs in the latter part of the previous term: Students register for spring semester classes starting the previous October/November; students register for summer and fall classes starting the previous April.
+
+When do I register?
+You should receive an email from the Office of the Registrar around the middle of each term. Following the instructions in the email, look for your Time Ticket (earliest registration time) on Student Self Service. Once the time stated on your time ticket comes up, you can start registering for your courses.
+
+When is the soonest that I can register? When can I see my Time Ticket?
+Besides sending you an email about your Time Ticket, the Office of the Registrar has a page about Time Tickets that may be helpful.
+
+What happens if I wait until a few weeks or months after my Time Ticket to register?
+If you wait, you may be unable to register for the courses required to keep you on track to graduate! Some necessary CS courses have been filling up the last few semesters, so we're trying to help you by restricting registration in many of our core courses (CS 126, CS 173, CS 210, CS 225, CS 233, CS 241, CS 242, CS 357, CS 374 and most 400-level CS electives) to specific majors. We lift the restrictions from many of those courses the Monday after early registration ends. If you haven't registered by then and find that you can't get into the class you need, you will probably be out of luck. You will have to register for the CS electives that are available.
+
+What if I have a hold and cannot register during my Time Ticket?
+If you have a hold for any reason that restricts your registration ability, let an advisor know ASAP (before registration begins, if possible). They will work with you as much as possible to get you a seat in your required courses.
+
+Registration Checklist
+Meet with your advisor for any questions about registration. First-year students are required to meet with an academic advisor in the fall. All undergrads in the CS department are required to meet with their faculty mentor before registration in the spring.
+Clear any registration holds you may have.
+Make yourself aware of Enrollment Restrictions.
+Register for a complete schedule at full-time status. If you underload your schedule, it must be approved.
+Verify your address.
+if you are registering for your final semester, you must complete graduation information and add yourself to the pending degree list.
+How to Use the Online Registration System
+Registration is done online through the Student Self-Service system. The Office of the Registrar has a video with step-by-step instructions on how to use the system. (That page also contains written instructions.) Their pages on Registration Procedures and Frequently Asked Questions (FAQs) also contain helpful information.
+
+Planning for Next Semester and the Future
+Which courses should I register for?
+This depends on (1) which courses are required for you to complete your degree, (2) which requirements you have already completed, (3) when a course is usually offered, and (4) which courses you might be interested in taking.
+
+Degree Requirements
+Requirements fall into three general categories:
+
+Major requirements: courses required for your specific major - these are spelled out for each CS major: CS in The Grainger College of Engineering, Mathematics & CS, Statistics & CS, and CS + X.
+General education requirements: to ensure your degree program is well-rounded - see the Engineering advising website for Engineering gen eds and the LAS website for LAS-specific gen eds.
+Free electives: additional coursework to bring your credit hours up to the required minimum for graduation - Engineering students, be sure to check the Engineering free electives web page for courses that do not count.
+Progress on Degree Requirements
+You can follow your progress through your requirements using two main tools:
+
+Check the requirements flowchart for your major for the suggested order in which major requirements should be taken, or use one of the course planning forms. (CS in The Grainger College of Engineering, Mathematics & CS, Statistics & CS, CS + X - see your X department for their requirements).
+By checking your degree audit, see what requirements you have completed/are completing and have left to complete. You can access your degree audit on the web-based Degree Audit System (DARS). The Registrar's Office website has a step-by-step procedure for running a DARS Audit.
+If you have a concern about your DARS (for example, if you have taken a course that you think should satisfy a requirement but it is not being counted), please email undergrad@cs.illinois.edu.
+
+If your situation is not straightforward or you're struggling in your courses, you should talk to an advisor, Steve Herzog, Heather Zike, or Katrina James, before registering for your courses. If you're struggling, that might be a sign that you need to take fewer hours or fewer technical hours. If you're wondering if your proposed course schedule is manageable, ask your peers – and don't be afraid to get more than one opinion.
+
+Course Offerings
+When drawing up your schedule, pay close attention to course-offering patterns to avoid overloads! Some courses are offered in fall or spring only. If you're within two or fewer semesters of graduating, plan out the rest of your courses carefully so you don't need a course not offered the semester you intend to graduate. We anticipate this might be a problem, particularly for CS in Engineering majors who plan on completing the two-course Software Engineering or Senior Project sequence and/or certain focus groups. This also applies to Mathematics & CS and Statistics & CS majors looking to complete certain required courses at the junior and senior levels.
+
+Information about individual courses
+How do you discover what a course covers, if it is being offered, or if an elective might be helpful or interesting to you?
+There are several critical sources of information:
+
+The CS website. https://cs.illinois.edu/academics/courses (Provides a short overview of each CS course, plus Learning Goals.)
+The Course Explorer. https://courses.illinois.edu/ (Provides the schedule of all University courses by term and a browsable database of general education requirements, in addition to other resources.)
+The official Course Catalog and Programs of Study.
+Many instructors maintain course websites, which may be helpful to visit when determining if a course is right for you.
+Student-run resources like Dr. Everitt's Neighborhood.
+Consider a CS 498 Special Topics in CS course!
+Many faculty offer a CS 498 Special Topics in CS course, which tend to be small classes, focused on a topic close to a faculty member's heart and thus provide an excellent opportunity for a letter of recommendation and a future project or thesis. And you can use them to satisfy your 400-level CS elective requirements. For more information, including meeting times, course descriptions, and prerequisites, see the course (https://courses.illinois.edu/) and search for CS 498 to see the titles of courses offered.  Some current and past CS 498 Special Topics (others may be added):
+
+Virtual Reality
+Digital Forensics
+Applied Machine Learning
+Intro to Data Science
+The Art of Web Programming
+Algorithms for Big Data
+Internet of Things
+Registration Advising, Faculty Mentors, & Piazza
+Seeking Advice
+Who is my advisor?
+All undergraduates in the Computer Science department (students in any major with the words ""Computer Science"" in the title) are assigned a CS advisor.  If you have ANY questions about requirements, policies, and procedures, you can make an appointment to meet with your CS academic advisor or email your advisor.  Students not in a Computer Science major can seek advice during drop-in advising hours in the CS Academic Office at 1312 Siebel Center or by emailing undergrad@cs.illinois.edu. Advisors are usually on duty during drop-in advising hours (listed here). You can check to make sure - the drop-in advising hours are usually posted right by the door to the Academic Office.
+
+Am I required to meet with an advisor before I register?
+First-year students are required to meet with their CS academic advisor during the fall (you will be emailed about this requirement).  All CS undergrads are required to meet with their faculty mentor (see below), usually in the spring semester, to be eligible to register for the upcoming fall. If you have questions about scheduling, requirements, and procedures, you should see an advisor in the Academic Office or email undergrad@cs.illinois.edu.
+
+Can an advisor get me into a closed class?
+Having a backup course on your schedule is always best if your first choice is unavailable at registration time. Advisors usually cannot add you to a closed course, but here are some suggestions:
+
+Check the class schedule. Read the course notes and check to see if a new section of the course may be added.
+Keep trying. Someone will probably drop the course, so check frequently to see if someone does. Persistence is the key to getting the classes you want.
+Call or stop by the department offering the course to ask:
+Is there any way I can schedule this course?
+Are additional sections likely to be added? If so, when?
+Is there a waiting list? If so, can I add my name to it? (CS does not usually have a waitlist for courses.)
+Expect to make changes during breaks or when you return to campus. Many students do not leave for winter and summer breaks with class schedules finalized.
+Schedule a related course that would be a good alternative. That being said, don’t settle for courses that are not appropriate just because they are available.
+Try again during peak schedule change times. Right before classes start and during the first 10 days of the semester, people frequently change their schedules.
+Attend the first day of class and ask the instructor if you can register for the course. The instructor may tell you no; however, he or she may tell you yes if attendance is low during the first week and it appears that there might be room in the course.
+If you can’t add the class right away, ask the instructor if you can attend the class in the meantime. That way, you will be sure you want the course and will not have missed anything if the course becomes available.
+Faculty Mentors
+All CS undergrads are assigned a faculty mentor (new students receive their assignments usually late in their first fall semester or early in their first spring semester). Typically, all undergraduates must meet with their faculty mentor by the beginning of April (early registration for summer and fall terms). If you have a question that a faculty member would be best equipped to answer, feel free to contact your mentor or any professor you've met with or had a course with in a past semester. Or, if you have a question about a certain area of computer science, you can find which faculty members specialize in that particular area. All our faculty members are listed by research area and alphabetically on the CS website. You can find these listings and contact information for each faculty member in the CS departmental faculty directory. See the Computer Science Undergraduate Advising page to learn more about faculty mentors and the advising process.
+
+PIAZZA
+CS uses Piazza as a forum for students to get advice from their peers and the Office of Undergraduate Programs. Many questions can be answered quickly when we pool our shared knowledge.
+
+For simple advising questions, feel free to post them to Piazza; CS staff will monitor and answer them as best and as quickly as we can. This may save you a trip to our office (though we'd still like to see you - don't be a stranger!).
+
+Here are some suggestions, guidelines, and comments about this service:
+
+Use this forum to ask your peers questions about courses, sanity-checking schedules, internships, etc.
+Use this forum for simple questions about department, college, and university policies.
+Don't post academically sensitive information (e.g., grades, etc.) unless you post anonymously.
+We've disabled private posts because such a post usually indicates that you should probably be coming in to see an advisor or the Director of Undergraduate Programs in person.
+How to sign up for the advising Piazza: https://piazza.com/configure-classes/other/csadvising
+
+Link to the Advising Piazza ""course"" page: https://piazza.com/illinois/other/csadvising/home
+
+Prepare for Graduation
+Check your DARS to ensure you know your remaining requirements and that you can fit them into your remaining semesters. For help, contact a CS academic advisor.
+Make sure you reach the required minimum total hours. See DARS for this, and remember that DARS includes in-progress courses - anything you're currently taking this semester and anything you've registered for next semester - in the total hours!
+Don't forget free electives! CS in Engineering majors need 128 total hours to graduate; all CS undergraduates in LAS need 120 hours. Just fulfilling your major requirements and gen eds will not be enough. Engineering majors, check the Engineering advising web page on free electives to see which courses DO NOT count toward your total graduation hours.
+If you have any time conflicts among the remaining required courses, email the CS undergraduate advisors as soon as possible and let them know which courses are conflicting.
+Declare your intent to graduate. You should do this through Student Self-Service when you register for your final semester of courses. Click on the tab ""Graduation Information"" to ensure the term is set at the term you are graduating, then follow the instructions to declare your intent to graduate.
+Review this Graduation page from the Office of the Registrar to ensure you complete all the essential steps for graduation.
+Complete commencement information can be found at http://commencement.illinois.edu/.
+Registration Error Messages
+The following error messages are commonly received during registration. Learn what they mean and what to do when you receive them. It may be helpful to read the course notes in the course explorer under the specific CRN (course reference number) you are attempting to add to your schedule.
+
+Class Restriction
+The class is being held for students at a particular class standing (i.e., freshmen, sophomores, juniors, or seniors). Try to add another section of the class. Check the class schedule to see if the department has posted when the restriction will be lifted.
+
+Closed or Reserved
+The class is being held for students in a particular program or major. Try to add another section of the class. Check the class schedule to see if the department has posted when the restriction will be lifted.
+
+College Restriction
+The class is being held for students in a particular college. Check the class schedule to see if the department has posted when the restriction will be lifted.
+
+CORQ Error
+Some classes require that you also register for a co-requisite or attached course. If you get this error, the error message will tell you the class and CRN you need to add. Type both CRNs in the boxes at the bottom of the add/drop screen and try again.
+
+Departmental Approval Required
+The department has restricted the course. Check the class schedule to see if the department has posted when the restriction will be lifted. Otherwise, contact the department for more information.
+
+Link Error
+Specific lecture sections must be linked to a lab or discussion section. The lecture, discussion, or lab must start with the same letter (A, B, etc.).
+
+For example, I want to register for SOC 100. I need a lecture (AL1) and discussion section (ADA or ADF). If I do not have the lecture and discussion section selected, or if I register for a BL1 lecture and an ADA discussion, I will get this error.
+
+Major Restriction
+This class is being held for students in a particular major(s). Check the class schedule to see if the department has posted when the restriction will be lifted.
+
+Program Restriction
+This course is restricted to a particular program or major. Check the class schedule to see if the department has posted when the restriction will be lifted.
+
+Student Attribute Restriction / PREQ or Test Score Error
+You get one of these messages when you don’t have an attribute required of the course or section. Check the section restrictions in the class schedule. Most often, courses are held in this fashion for freshmen, James Scholars, pre-College of Media students, Weston or Allen Hall students, and so on.
+
+Unless otherwise noted, these sections will not open to other students, so if possible, try to add another unrestricted section of the class.
+
+Time Conflict With (CRN)
+You will get this message when the time of the course you try to add conflicts with another course. Check to see if the course conflicts with either a discussion or lecture, and try to change the previous or new course to a different time."
+https://cs.illinois.edu/student-life/student-organizations,"At Illinois, there's a lot of life outside the classroom. Student organizations at the university provide numerous extra-curricular activities and experiences that are available for every student to explore. Opportunities can include gaining leadership and professional development experience, being a mentor or mentee, volunteering for a wide range of service projects, and social events to meet new friends and have fun. With over hundreds of student groups on campus, including several related to computer science, there's something for everyone.
+
+Computer Science Student Groups
+CS student groups reflect the diverse interests, backgrounds, and passions of our student body and can enhance your learning and team experiences around computing.
+
+Association for Computing Machinery (ACM): has over 20 SIGs (Special Interest Groups) that explore the possibilities of computers and learning how to use and develop them. Helps organize HackIllinois and the Reflections | Projections Conference.
+B[U]ILT (Black, Indigenous, LatinX in Technology): an newly formed student organization leveraging the groundwork laid by two previous student clubs (BAAC: Black & African Americans in Computing and LCS: Latinxs in Computer Science) to provide support for minorities in computing related fields that fosters scholarship, professional development, and a sense of community.
+CS Grad Student Organization (CSGSO): the organization for computer science graduate students at the University of Illinois.
+Founders: has events and programs to nurture a strong culture and environment that educates, inspires, and motivates people interested in entrepreneurship.
+Project: Code: an organization that allows introductory and intermediate programmers to learn and explore with like-minded peers through group-based programming projects.
+Society for Industrial and Applied Mathematics (SIAM): aims to advance the application of mathematics and computational science to engineering, industry, science, and society.
+Women in Computer Science (WCS): an educational, service-focussed organization dedicated to supporting the efforts of young women interested in computer science and technology.
+
+HackIllinois
+Play/Pause
+Engineering Student Groups
+Engineering student groups offer opportunities for leadership, networking, and support.
+
+American Society for Engineering Education (ASEE)
+Engineering Council (EC)
+Engineering Student Alumni Ambassadors (ESAA)
+Engineers Without Borders (EWB)
+Hack4Impact
+National Society of Black Engineers (NSBE)
+Promoting Undergraduate Research in Engineering (PURE)
+Society of Hispanic Professional Engineers
+Society of Women Engineers (SWE)
+more!
+ 
+
+Campus Student Groups
+Registered organizations enrich life on campus by providing programs like dances, lectures, movies, tournaments and races. Some examples of groups you'll find among the RSOs include:
+
+Illini Chess Club
+Spicy Clamato! Improv Group
+Star Course
+more!"
+https://cs.illinois.edu/academics/graduate,"Graduate Degrees and Programs
+PhD Program
+Advance your area of interest. Learn from and work with some of the best CS faculty in the world.
+
+MS Program
+Illinois Computer Science has a global reputation for developing revolutionary technology—where groundbreaking research addresses real-world problems.
+
+MS In Bioinformatics Program
+Our researchers work on core computational biology-related problems, including genomics, proteomics, metagenomics, and phylogenomics.
+
+Master of Computer Science (MCS)
+MCS is a professional degree program that allows you to augment your education and accelerate your career by learning from world-class faculty who are advancing the frontiers of computer science.  Take courses on campus or online.
+
+Fifth Year Master's Programs
+With the five-year B.S.-M.C.S. and B.S.-M.S. programs, Illinois Computer Science undergraduates can add a master’s degree in only two additional semesters. 
+
+Non-degree Options
+The iCAN Computing Fundamentals Certificate allows bachelor's degree-holders in non-CS fields to gain an understanding of computing. 
+
+Graduate Forms & Advising Resources
+Helpful forms and contacts.
+
+Advising Resources
+
+CS Graduate Student Handbook
+CS graduate students policies and procedures.
+
+Download Handbook
+
+
+
+ 
+Graduate Advising
+The Graduate Academic Office, a guiding hand for CS graduate students, assistance is available every weekday.
+
+Advising Contacts & Queue"
+https://cs.illinois.edu/academics/graduate/fifth-year-masters-programs,"With the five-year B.S.-M.C.S. and B.S.-M.S. programs, Illinois Computer Science undergraduates can add a master’s degree in only two additional semesters immediately after completing their bachelor's degree requirements. Open to current CS juniors enrolled in The Grainger College of Engineering, these combined programs allow students to dive deeply into the upper-level courses available in our highly-ranked graduate program.
+
+Students can share three courses (9 to 12 credit hours) between their bachelor's and master's degrees, making this an efficient option for those seeking to extend their skills, increase their knowledge, and make themselves more attractive to employers. The B.S.-M.C.S. is a coursework-only degree, while the B.S.-M.S. has a research thesis component.
+
+See our Fifth Year BS/MCS and BS/MS Information Session slide deck.
+
+Fifth Year Masters Degree Conferral & Commencement Policies
+Graduation Convocation / Commencement Policy
+Starting Fall 2018, students in a bachelor’s/master’s degree program will only be able to walk in a convocation/commencement ceremony once both programs are completed, and they will walk as a master’s graduate.  A joint degree program is a campus-approved program in which a student concurrently pursues two specifically identified degrees, which are conferred simultaneously. For graduate students, this is a combination of a graduate degree with one of the following: another graduate degree, an undergraduate degree, or a professional degree.
+
+Confirm that Bachelor's Requirements are Met
+Students in a joint bachelor’s/master’s degree program must meet with the Engineering Undergraduate Program’s Degree Conferral staff in the Engineering Undergraduate Program Office, room 206 Engineering Hall, to ensure all requirements have been met for the bachelor’s degree. The degree audit must be completed at the time students move into the master’s degree.  
+
+In addition, students must submit any required paperwork to confer either their bachelor’s degree or master’s degree no later than November 1 for a December conferral or April 1 for a May conferral.  If paperwork is not submitted by this deadline, the college cannot guarantee that your degree will be conferred for that degree conferral period.
+
+Add Your Name to Both Degree Conferral Lists
+Students in a joint bachelor’s/master’s degree program must add their name to both the bachelor’s degree conferral list and the master’s degree conferral list in order to graduate. Students must add their name by the designated deadlines for each degree.  If either deadline is missed, this may require the student to wait until the following degrees conferral period.
+
+Graduate Academic Office Contact Information
+DEPARTMENT OF COMPUTER SCIENCE
+
+Graduate Academic Office / University of Illinois
+201 North Goodwin, 1312 Siebel Center
+Urbana, IL 61801
+Campus Mail Code: MC-258
+Phone: (217) 333-4428
+Fax: (217) 244-6073
+Email: academic@cs.illinois.edu
+
+OFFICE HOURS
+Monday – Friday
+
+Morning: 8:00 AM to 11:45 AM
+Afternoon: 1:00 PM to 4:45 PM
+Walk-in advising hours start at 10:00 AM
+List of Graduate Advising Contacts and Virtual Advising Queue"
+https://cs.illinois.edu/academics/graduate/professional-mcs,"Join the ranks of leaders in computer science who have degrees from Illinois Computer Science, including founders and leaders of C3.ai, Malwarebytes, Match.com, Microsoft, Netscape, Optimizely, PayPal, YouTube, and Yelp.
+
+The Master of Computer Science (MCS) from Illinois Computer Science is a professional degree program that allows you to continue your education and accelerate your career by learning from world-class faculty who are advancing the frontiers of computer science.
+
+As an MCS student, you must complete 32 hours of graduate coursework. However, you are not required to take the GRE or work with an advisor to write a thesis or dissertation. Your courses will cover the same cutting-edge content offered to students enrolled in our research-focused MS and PhD degree programs. 
+
+Choose the MCS degree that's right for you.
+MCS on campus
+Join the student body on the Urbana-Champaign campus for full-time studies and earn an MCS degree in as little as three semesters.
+
+Space on campus is limited, but this option provides students with the most courses to satisfy the MCS degree requirements. Students pay full tuition and fees, but they have access to Big 10 Division I sports, marquee theatre and performing arts, and outstanding health and recreational facilities.
+
+The Thomas M. Siebel Center for Computer Science.
+
+Learn about the MCS on campus
+
+MCS in Chicago
+Attend classes in downtown Chicago to pursue an MCS degree full-time in as little as three semesters or take up to five years as a part-time student.
+
+The program was designed with maximum flexibility in mind for students. Students can attend classes taught in-person in downtown Chicago or attend classes taught through an online hybrid model. The MCS degree can be completed in as little as three semesters if enrolled full-time or can take up to five years as a part-time student. Busy professionals can complete a degree while they continue to meet their current life and career obligations. Students will also have opportunities for corporate engagement such as attending professional networking events, industry-led presentations, and entrepreneurship events. Students pay full tuition and applicable fees.
+
+
+ 
+
+The Chicago skyline and lakefront with sunlight and clouds in 2017.
+
+Learn about the MCS in Chicago
+
+Online MCS 
+Busy professionals can complete a degree online while they continue to meet their current life and career obligations. Illinois Computer Science has partnered with Coursera to use its massive open online course (MOOC) platform to offer the MCS to students more flexibly and affordably than is possible on campus.
+
+This innovative format offers video lectures through Coursera's platform. It includes assignments, projects, and comprehensive exams required for university degree credit, along with advising, discussion, and feedback from Illinois faculty, staff, and teaching assistants so they can be completed successfully. The Online MCS is designed to allow students to study at their own pace to provide time for work, family, or other obligations.
+
+Students can earn the Online MCS aggressively in as little as one year, more leisurely over three years, or, with occasional pauses, over as many as five years.
+
+
+
+Learn about the Online MCS
+
+ 
+
+Online MCS in Data Science 
+Learn about new statistical and computational methods transforming business and society from the Illinois faculty pioneering them. Illinois Computer Science offers a specialized track of courses that satisfy the MCS degree requirements but with coursework focusing on data science — the art of extracting new knowledge and finding meaningful information in a massive sea of data.
+
+The Master of Computer Science in Data Science (MCS-DS) leads to the same MCS degree as above, but through core competencies in machine learning, data mining, data visualization, and cloud computing, as well as interdisciplinary data science courses offered in cooperation from the Department of Statistics and the School of Information Science.
+
+As with the Online MCS, the Online MCS-DS is provided through our partnership with Coursera on its MOOC platform.
+ 
+
+A woman smiles and holds a laptop displaying online students in the Siebel Center for Computer Science lobby.
+
+Learn about the Online MCS-DS"
+https://cs.illinois.edu/academics/graduate/professional-mcs/online-master-computer-science-data-science,"Explore the Online MCS-DS
+Application Information
+Online MCS Degree Requirements
+Tuition & Fees
+Financial Assistance
+Get Updates
+FAQs
+News
+Applications are open!
+Apply by February 15th to join the Summer  2024 cohort.
+Apply Now!
+Complete a Master’s degree online in the hottest area of the new millennium! Learn about new statistical and computational methods that are transforming business and society from the Illinois faculty who are pioneering them. Illinois Computer Science offers a specialized track of courses that satisfy the MCS degree requirements, but with coursework that focuses on data science — the art of extracting new knowledge and finding meaningful information in a massive sea of data. 
+
+The Master of Computer Science in Data Science (MCS-DS) track is a non-thesis (coursework-only) program of study that leads to the MCS degree using courses that focus on data science. The MCS-DS track requires 32 credit hours of graduate coursework, completed through eight graduate-level courses each at the four credit hour level. The MCS-DS includes required coursework in machine learning, data mining, data visualization and cloud computing.
+
+Students receive lectures through Coursera's massive open online course (MOOC) platform, but are advised and assessed by Illinois faculty and teaching assistants on the more rigorous set of assignments, projects, and exams required for university degree credit.
+
+Students who would like to take a more general set of courses should consider the University of Illinois Online MCS.
+
+Application Information
+Who may apply?  Applicants should hold a 4-year bachelor's degree (or equivalent). Students with a bachelor’s degree in a field other than CS are encouraged to apply, but they must have prerequisite coursework or commensurate experience in object-oriented programming, data structures, algorithms, linear algebra, and statistics/probability. Applicants without this can strengthen their application for admission by passing the optional Data Structures Proficiency Exam. The recommended undergraduate GPA for applicants applying to the Professional Master's program is a 3.2/4.0 or higher. The Department of Computer Science does not require GRE scores for any of its graduate programs. Applications for the MCS do not require letters of recommendation, but will be considered if included, especially if used to justify experience in lieu of required coursework, or other irregularities.
+
+Application Deadlines
+Application Process & Requirements
+Check Status of Application Materials
+Admission for UIUC Graduates
+If you completed any CS or CS+X major or a CS minor at Illinois with a GPA of 3.0 or better in the last two years of your undergraduate degree and a GPA of 3.2 or better in CS courses, you are guaranteed admission to our Online MCS or MCS in Data Science (MCS-DS) programs. 
+
+
+Learn about Online MCS in Data Science.
+Play/Pause
+MCS-DS Degree Requirements
+Printable version.
+Note: Each MCS-DS course is four credit hours.
+
+Breadth Coursework
+Must complete one course each (with a grade of B- or higher) from the four different areas of machine learning, data mining, data visualization and cloud computing.
+
+Machine Learning:        
+CS 441 Applied Machine Learning 
+CS 445 Computational Photography 
+CS 447 Natural Language Processing 
+CS 598 Deep Learning for Healthcare
+
+Data Mining:        CS 410 Text Information Systems 
+CS 411 Database Systems 
+CS 412 Introduction to Data Mining 
+Data Visualization:        
+CS 416 Data Visualization 
+CS 519 Scientific Visualization  
+
+Cloud Computing:        CS 425 Distributed Systems (Cloud Computing Concepts) 
+CS 435 Cloud Networking 
+CS 437 Internet of Things
+CS 498 Cloud Computing Applications
+Advanced Coursework
+Must complete three courses (12 credit hours).
+
+CS 513 Theory and Practice of Data Cleaning 
+CS 519 Scientific Visualization
+CS 598 Foundations of Data Curation
+CS 598 Practical Statistical Learning* 
+CS 598 Advanced Bayesian Modeling 
+CS 598 Deep Learning for Healthcare
+CS 598 Cloud Computing Capstone* 
+CS 598 Data Mining Capstone* 
+* Prerequisites apply. Please see printable MCS-DS Degree Requirements document.
+
+Electives
+Not required, but available to use toward the eight courses required for the degree.
+
+CS 418 Interactive Computer Graphics 
+CS 421 Programming Languages and Compilers 
+CS 427 Software Engineering I
+CS 450 Numerical Analysis
+CS 463 Computer Security II
+CS 484 Parallel Programming 
+STAT 420 Methods of Applied Statistics 
+Additional Requirements
+All coursework must be taken through the Coursera MOOC platform.
+Breadth coursework must have a letter grade of B- or higher. Any other course taken for letter grade must have a grade of C or higher.
+Up to 12 credit hours of previous graduate coursework that is approved by the Department of Computer Science (including non-degree graduate courses completed within the Department of Computer Science) may be transferred and applied to the Professional MCS degree requirements.
+Tuition & Fees
+Tuition:  Tuition rates are posted on the Office of the Registrar's website at https://registrar.illinois.edu/tuition-fees/tuition-fee-rates/tf-rates-term/. 
+Please scroll down to ""Graduate and Professional"" section and then click ""Tuition Rates"" for the relevant semester.
+Tuition rates for Online Computer Science in Data Science - MCS-DS and MCS Computer Science programs are listed under the ""Grad Engineering & Engineering Related rate"".
+ProctorU fees: Most Online MCS courses require one or more exams. Exams are proctored online through the ProctorU service, which will be billed directly to the student when an exam is scheduled, at $8.75 (30-min. exam), $14.75 (1-hr. exam), $21.50 (90-min. and 2-hour exam), or $30.25 (3-hour exam).
+Other fees: Some courses can require additional fees, such as the Amazon Web Services cloud programming platform used for the cloud computing courses
+Financial Assistance
+The Department of Computer Science does not offer research or teaching assistantships to students enrolled in our online programs, including the Online MCS. The Online MCS program is accredited by the Higher Learning Commission and enrolled students are eligible for financial assistance. See the Office of Student Financial Aid for further information.
+
+Get Updates
+If you are interested in receiving updates about the Online MCS, please complete Coursera's Interest Form."
+https://cs.illinois.edu/academics/instructional,"The CS Instructional Area is one of the largest computer science instructional areas in the United States. This area is comprised of award-winning, creative, world-class faculty who are leading a diverse set of high-impact education- and computer science-based initiatives. By creating and sharing innovative and inclusive educational practices, visualizations, technologies, and transformative learning experiences, the instructional area is helping to redefine education at Illinois and beyond.
+
+Strengths and Impact
+Illinois Computer Science Summer Teaching Workshop
+
+The Instructional Area hosts an annual Summer Teaching Workshop. The goal is to bring together college instructors who are engaged with teaching computer science to discuss best practices, present new ideas, challenge the status quo, propose new directions, debunk existing assumptions, advocate for new approaches, and present surprising or preliminary results. Learn more at the Summer Teaching Workshop website.
+
+Innovative Teaching Technologies
+
+Interactive Visualization Systems Laboratory - Enabling exploratory deep dives into high quality and impactful data.
+PrairieLearn - An online problem-driven learning system to promote mastery in solving STEM problems.
+Computer Based Testing Facility (CBTF) - A secure proctored computer based testing environment.
+ClassTranscribe - Fully accessible video content and I•Note text, epub, pdf and latex document generation.
+Queue - Efficient and effective office hours and group formation in both in-person and online settings.
+ScribeAR - Augmented reality live captions, visualization, and speaker identification for Deaf and hard of hearing students.
+Innovative Degree & Certificate Programs
+
+CS + X
+X + Data Science
+Illinois Computing Accelerator for Non-Specialists (iCAN)
+Faculty
+Abdussalam Alawini
+Educational Data Mining, Teaching at Scale, Online Assessments, Collaborative Learning, Data-Driven Teaching
+
+Nancy M. Amato
+Blended Degree Programs, Pathways for Computing Education, Undergraduate Research, Professional Development and Training
+
+Lawrence Angrave
+Fully-Accessible Video-Based Learning; Video-to-Book Generation; ASL Glossary; Generating Accurate Captions and Content Description; Applied Machine Learning for Accessibility and Transformative Media Applications
+
+Mattox Beckman
+Mastery Grading; Science and Technology Studies
+
+Geoffrey Challen
+CS1, Online Instruction, Frequent Small Assessment, Teaching at Scale, Effective Autograding
+
+Ben Cosman
+Teaching at Scale, Discrete Mathematics, Formal Models of Computation
+
+Ryan Cunningham
+Ethics and Professional Issues in Computing; Legal and Policy Issues in Computing; Digital Forensics; Computer Security; Applied Machine Learning
+
+G. Carl Evans
+Outcomes Assessment
+
+Wade Fagen-Ulmschneider
+Data Discovery, Social Media, Open-Ended Creative Assessments
+
+Margaret Fleck
+Discrete Mathematics, Frequent Assessment, AI Autograding
+
+Yael Gertner
+Broadening Participation in Computing, Discrete Mathematics and Algorithms, K-12 CS Education
+
+Elsa Gunter
+Autograding Math Computations and Proofs; Applying Formal Methods and Program Analysis to Computer Education
+
+Geoffrey Herman
+Computer Architecture, Study Skills/Habits, Students' Sense of Belonging, Frequent Low-Stakes Assessments
+
+Hongye Liu
+Application of Universal Design for Learning for Inclusive Large Classroom Teaching; Real-World-Data-Based Assignments for Experiential Learning; Active Learning Practices in STEM Courses; Affective Learning Practices; Understanding of Learning Pathways
+
+Marco Morales
+Motion Planning and Control, Autonomous Robots, Machine Learning
+
+Michael Nowak
+Assessment, Broadening Participation in Computing, Learning Analytics, Online Learning Platforms, Teaching at Scale
+
+Eric Shaffer
+Teaching at Scale, Problem-Based Learning, Immersive Learning, Assessment, Learning Analytics
+
+Mariana Silva
+Teaching at Scale, Assessment, Collaborative Learning, Online Learning Platforms
+
+Brad Solomon
+Computer Science Education
+
+Ruby Tahoub
+Teaching at Scale, Assessment, Introductory Programming Education, Non-Majors
+
+Luther Tychonievich
+Broadening Participation in Computing; K-12 CS Education; Teaching Assistant Preparation; K-12 Teacher Preparation  
+
+Tiffani Williams
+Pedagogy, Inclusive Classrooms, Adult and Multiple Pathways Computing Education
+
+Michael Joseph Woodley
+Experience-Based Learning, Team Projects, Peer Evaluations, Static Code Analysis"
+https://cs.illinois.edu/news/notes,"News Notes of our faculty, alumni, and students are below. See also our News and Media Mentions.
+
+12/19/2023
+CS Professor Sheldon H. Jacobson says, in response to bills filed over the use of AI-manipulated media in the Florida 2024 legislative session, “Law and artificial intelligence are now starting to merge and confront each other. This is the Wild West … We’re just at the beginning.”  (Tallahassee Democrat)
+
+12/5/2023
+Turing laureate Joseph Sifakis has created an extension of CS professor Lui Sha’s Simplex architecture for trustworthy autonomous systems. Sha’s team and colleagues have worked on provably safe AI-enhanced CPS systems.
+
+11/29/2023
+CS Professor Sheldon H. Jacobson wrote an opinion piece on gerrymandering congressional districts in advance of the 2024 presidential election.
+(The Hill)
+
+11/14/2023
+Illinois CS Professor Sarita Adve will be honored for her ""valuable contributions to the field of high-performance computing"" and featured in the SC23 Conference 35th Anniversary booth on November 12-17, 2023, in Denver, CO.  
+
+11/8/2023
+Illinois CS Professor Ling Ren has been awarded the Bitcoin Research Prize for an article he co-authored.
+
+11/2/2023
+Rashid Bashir, Dean of the University of Illinois Urbana-Champaign’s Grainger College of Engineering is among those working alongside Illinois Governor J.B. Pritzker to secure the National Semiconductor Technology Center for the state.
+(Chicago Sun-Times)
+
+10/31/2023
+CS Professor Sheldon H. Jacobson wrote about the need to end daylight savings time.
+(The Telegraph)
+
+10/26/2023
+CS Professor Sheldon H. Jacobson examined gun safety legislation.
+(The Hill)
+
+10/23/2023
+Illinois CS Interactive Computing faculty and students, attended the ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW) Oct. 14-18. Two papers from the CS IC group won the Best Paper awards "
+https://cs.illinois.edu/student-life/student-resources,"Together, the Campus, College, and Department offer a comprehensive network of student resources, from academic to general services, to health and wellness support.
+
+Computer Science Student Support Services
+
+Undergraduate Advising
+
+Graduate Student Forms, Thesis & Advising Resources
+
+CS Advising Piazza submit Q&A's to simulate class discussion between students and instructors. 
+
+CS CARES Committee is committed to fostering an open and inclusive community for all, as defined in our CS Values & Code of Conduct.
+
+CS Mental Health Committee (CSMHC) Forum is a safe, open space where students can discuss mental health challenges, with tips and resources.
+
+CS has limited funding for professional opportunities. Request support.
+
+To find a resource or help connect a friend in need, please get in touch with the Illinois Computer Science Academic Office:
+
+In-person: at 1210 Siebel Center
+By phone at: (217) 333-4428
+By email at: undergrad@cs.illinois.edu (undergraduate students) or academic@cs.illinois.edu (graduate students)
+Campus Student Support Services
+
+Counseling Center
+
+McKinley Mental Health Services
+
+WellTrack Interactive Self-Help App allows users to track their moods and learn how to control conditions like anxiety and depression.
+
+Counseling Center Skill-Building Programming is the hub of resources that includes information to aid students in coping with the stress and challenges of college life and beyond.
+
+Visit McKinley Health Center
+
+McKinley Online Relaxation Exercises encourages students to take a break and relax through guided imagery, deep breathing, and progressive muscle relaxation exercises.
+
+McKinley Self-Care Station Vending Machines offers free, over-the-counter self-care supplies for students—I-Card required. 
+
+Located at:
+
+Illini Union, First Floor (Southeast)
+Student Dining & Residential Programs Building (SDRP), Mail Room
+Grainger Library, Main Level
+ACES Library, Main Level
+McKinley’s Health Education unit has staff who provide one-on-one consultations in nutrition, sexual health, and stress management to students. Students should call McKinley at 217-333-2700 to schedule an appointment.
+
+MindWise Mental Health Screenings takes a quick screening to see if feelings like prolonged sadness, anxiety, irritability, loss of pleasure, and/or hopelessness might be related to depression. Other screenings for generalized anxiety disorder, alcohol misuse, eating disorders, bipolar disorder, and post-traumatic stress disorder are available.
+
+University Wellness Resources Portal allows students, faculty, and staff to connect to services for mental health, wellness, access, and accommodation.
+
+After-hours psychological Emergencies and Other Critical Problems
+The Counseling Center and McKinley Health Center collaborate with Rosecrance Central Illinois to provide students with Psychological Emergency Services, which are available 24 hours per day, 365 days a year, and focus on problems that need to be addressed immediately (e.g., serious illness, death in the family, severe anxiety, suicidal crisis).
+
+For a consultation with a mental health professional after office hours, students should call the Crisis Line at 217-359-4141. The student, together with a mental health professional, will strategize the best way to make certain help is received.
+
+The 988 Suicide & Crisis Lifeline is available 24/7 for everyone, is free, and confidential. Call or text 988 for help.
+
+For immediate life-safety issues, always call 911. 
+
+Religious Support: find local religious organizations that support various faith traditions.
+
+Cultural & Resource Center Support shows a complete listing of cultural and resource centers.
+
+Office of the Dean of Students has the Student Assistance Center (SAC) in the Office of the Dean of Students that can help access any of the above resources, assist with concerns about impacts on academics, or how best to support a friend in need. The Emergency Dean Program provides an on-call university administrator after business hours. To reach the SAC or the Emergency Dean, please call 217-333-0050.
+
+ 
+Student Resources
+See the Academic Calendar, Course Explorer, Pay My Bill, MyIllini, Programs of Study, learn about Housing, Counseling Center resources, and more!
+
+Explore Campus Resources
+
+ 
+Engineering Career Services (ECR)
+We help you use your world-class engineering education to discover and apply your strengths in meaningful career opportunities.
+
+Explore how we can help!"
+https://cs.illinois.edu/student-life/career-services,"Comprehensive career services are available to students from the campus, college, and department.
+
+The Career Center at Illinois
+The Career Center provides all Illinois students collaborative and innovative programs, services, resources focused on career and professional development that educates and empowers them to become thriving professionals in the global community.
+
+Engineering Career Services (ECS)
+Engineering Career Services has a staff of experienced, knowledgeable career advisers whose job is to prepare you for career search success. The ECS team can help you develop a career action plan, develop your resume, prepare for interviews, apply for internships and evaluate job offers. You can also sign up for Handshake, the free online job board.
+
+Illinois Computer Science
+The Illinois Computer Science External Relations team manages recruiting and research collaborations with corporate partners exclusively seeking CS and ECE student talent. The Corporate Connection program offers an After Hours corporate-student networking event each semester. Illinois Computer Science also coordinates several Ad Hoc events each year that includes Tech talks, Corporate days, Coffee Booths, and HACKS/Competitions.
+
+Illinois Computer Science also offers an opportunity for academic job talks for Illinois CS students and postdocs who are going on the job market. If you are interested in PILOT talks, more information can be found on the PILOT seminar wiki page. "
+https://cs.illinois.edu/student-life/course-assistants,"Illinois CS Course Assistants
+ 
+
+Apply to be a CS Course Assistant!
+
+ 
+Being a Course Assistant
+Why be a course assistant (CA)?  You get teaching and mentorship experience, as well as work experience, which is a great resume booster! You can help improve courses you’ve taken that you think need improvement.  You will learn the material better than you did when you took that course. You get great satisfaction from helping others. You can make more and stronger connections with students and other staff members. You get paid!
+
+Who can be a CA? Requirements vary between courses and instructors; look carefully at the requirements for individual positions. It may not require having earned an A in the course. It may not require that you have taken the course; merely having experience in something could be sufficient!
+
+What will I do as a CA? You will likely do some mentoring, tutoring, and/or grading. Some course staff positions carry additional or different responsibilities than those; you may be able to contribute in ways that you did not know were part of the operations. Smaller enrollment courses may have different needs and responsibilities than larger enrollment courses.
+
+What do I need to do to become a CA? Apply for CA opportunities in the portal. You can also talk to previous instructors about their potential opportutities for CAs. See if you can make contact with a previous staff member for their thoughts on positions. Sign up for Professor Colleen Lewis’s Course Assistant Training (below).
+
+When should I apply? Opportunities will be posted within the last six weeks of a semester.
+
+ 
+
+Course Assistant Training
+Find complete details on the Course Assistant Training Module
+
+What is the Course Assistant Training? This course is designed for students working as or interested in becoming a Course Assistant (CAs) in the Computer Science Department. The goal of the course is to help students learn the skills and knowledge they need to be awesome CAs (i.e., encouraging and impactful). Topics include: (a) principles of learning, (b) motivating students, (c) tutoring practices, (d) encouraging effective collaboration, (e) grading practices, (f) developing a positive classroom community, and (g) ethical considerations. Current Course Assistants who have not completed the course are encouraged to enroll. Students can participate entirely asynchronously.
+
+Who Should Participate? The Course Assistant Training is open to any student who is working as or interested in becoming a Course Assistant in the computer science department.
+
+Course Dates and Format The course is offered every semester and can be taken either synchronously with the instructor or asynchronously online.
+
+Questions? Contact Colleen Lewis 
+
+About the Professor
+Colleen Lewis is an Assistant Professor of computer science (CS) at the University of Illinois Urbana-Champaign. Lewis was previously the McGregor-Girand Associate Professor of CS at Harvey Mudd College. At the University of California, Berkeley, Lewis completed a PhD in science and mathematics education, an MS in computer science, and a BS in electrical engineering and computer science. Her research seeks to identify and remove barriers to CS learning and understand and optimize CS learning. Lewis curates CSTeachingTips.org, a NSF-sponsored project for disseminating effective CS teaching practices. Lewis has received the NCWIT.org Undergraduate Mentoring Award and the AnitaB.org Emerging Leader Award for her efforts to broaden participation in computing. "
+https://cs.illinois.edu/academics/undergraduate/honors,"There are many opportunities for undergraduate students within the Department of Computer Science to be recognized for their exceptional work. Awards and scholarships are presented each year during the department's Spring Awards Banquet. The James Scholar program is open to qualified students within the College of Engineering and the College of Liberal Arts and Sciences. Each of the colleges recognizes its top graduates during graduation ceremonies.
+
+College of Engineering Honors
+James Scholar Program in Engineering
+The gifted undergraduate student who is seeking the challenge of advanced and unusual academic opportunities and the maximum freedom in course selection will find such opportunity in the James Scholar Program in Engineering. In addition to the various honors sections, courses, and special educational opportunities made available by the various departments of the college, the program administers several engineering honors courses. These courses are designed to bring together James Scholars from throughout the college to study various interdisciplinary subjects.
+
+The James Scholar Program is voluntary and therefore enrolls superior students who are actively seeking unusual academic challenges. It strives to interact with each student on an individual basis; its foundation lies in the student's interest and academic goals.
+
+The College of Engineering requires its James Scholars to devise an ""honors contract"" in consultation with the honors advisor. For CS, honors advising, like other academic advising, is handled in the Academic Office. Contact undergrad@cs.illinois.edu for honors advising. For more information about the James Scholar Program in Engineering, including eligibility criteria, see the website.
+
+Graduating with Honors in Engineering
+Honors awarded at graduation to superior students are designated on the diploma as Honors, High Honors, or Highest Honors.
+
+Eligibility
+Honors Students with a cumulative University of Illinois grade point average of at least 3.5.
+High Honors Students with a cumulative University of Illinois grade point average of 3.8.
+Highest Honors may be awarded to any student upon recommendation of the department. The criteria used in selecting individuals for Highest Honors recognition include a GPA of at least 3.95 or a combination of a GPA of at least 3.8 plus one or more of the following: 1) evidence of a broad range of supplementary activities of an academic nature, 2) a substantial body of advanced CS coursework beyond that required for the degree (individual study, graduate-level work, senior thesis), 3) a substantial body of advanced coursework outside of CS, e.g., a second major or a minor that does not overlap significantly with degree requirements (e.g. not the Math minor). Highest Honors is necessarily selective, awarded to a relatively small fraction of students.  For students with a GPA from 3.949 down to 3.8 we look for increasing evidence of going “above and beyond” the minimum requirements for the degree in order to receive Highest Honors.
+College of Liberal Arts and Sciences Honors
+James Scholar Program in LAS
+Within the College of Liberal Arts and Sciences (LAS), the James Scholar Honors Program encourages academically gifted students to fully develop their intellectual abilities and achieve the college's highest academic recognition. Scholars are charged with the responsibility of seeking sustained intellectual achievement as undergraduates by achieving and annually maintaining James Scholar certification.
+
+Only the top 15 percent of the entering freshman are invited to participate in the LAS's James Scholar Honors Program. These incoming students are notified of their admission with a letter from the dean of the college. Continuing or transfer students with a 3.5 (A=4.0) cumulative grade point average may nominate themselves as James Scholars.
+
+James Scholars must meet the requirements each academic year to remain in good standing to continue receiving the program's benefits. To be certified as a James Scholar in LAS each year, scholars must fulfill the following criteria: complete at least two honors courses (one per semester) or Honors Credit Agreements during the academic year and earn a 3.5 cumulative grade point average.
+
+Graduating with Distinction in LAS
+Criteria for graduation with Distinction, High Destinction and Highest Destinction in the LAS CS programs can be found under the degree requirements listing for each major in the university's Academic Catalog, as follows:
+
+Mathematics & Computer Science
+Statistics & Computer Science
+Programs not listed above have yet to establish criteria."
+https://cs.illinois.edu/broadening-participation-computing/programs/ai4all,"AI4ALL Discover AI
+INTERESTED IN LEARNING ABOUT ARTIFICIAL INTELLIGENCE AND HOW IT INTERSECTS WITH A VARIETY OF FIELDS?  WANT TO LEARN ABOUT CAREER PATHS IN TECH?
+Apply Now!
+
+Application Deadline: February 10, 2023.
+
+What is AI4ALL?
+
+Discover AI is a  virtual program  that offers a hands-on introduction to computer science and artificial intelligence (AI), ethical issues surrounding AI implementation, and tech careers.  There is no cost to participate. Students that complete the program  will emerge with  actionable next steps in pursuing an academic or career path in AI - and the opportunity to continue in the following semester to our second program, Apply AI.
+
+AI4ALL programs are designed to bring together and highlight voices that have been historically excluded, and that will lead and shape the future of AI. We aim to serve the following students, especially those at the intersection of two or more of these identities:
+
+Indigenous Peoples, Black, Hispanic or Latinx, Pacific Islander, and Southeast Asian
+Trans and non-binary; two-spirit; cis women and girls
+Lesbian, gay, bisexual, asexual, and queer
+Students with a demonstrated financial need (for example, students who receive financial aid)
+First-generation college student
+Open to all Freshmen, Sophomores, and Juniors at UIUC. Discover AI is designed to accommodate both students with and without prior computer science or AI experience. No program fees. 
+
+Why should students consider the AI4ALL Discover AI program?
+
+At the end of the program, participants receive an AI4ALL Discover AI certificate of completion.
+Additionally, students will be invited to opt-in to Apply AI in the following semester - which  takes the concepts found in Discover AI further, and involves working with industry mentors on an AI-specific project.
+Students that complete the programs have access to Changemakers  - AI4ALL's career development program that can also help program alumni find an internship in AI.
+When is the program?
+
+Application Deadline:  February 10, 2023
+Program Launch: February 22, 2023
+Program Ends: May 3, 2023
+What is the commitment required from participating students?
+
+The Discover AI Program consists of a 10-week commitment of about 20 hours overall for the program. 
+The curriculum includes pre-work before the program begins and optional homework to complete on your own during the program.
+Synchronous sessions will be Thursdays 3:30pm-5pm CT.
+Discover AI is the first in a series of AI4ALL programs to support your journey in AI.
+
+STEP 1: Discover AI - Intro to AI fundamentals
+STEP 2: Apply AI - Build an AI portfolio
+STEP 3: Changemakers - AI internship program (pilot)
+
+
+AI4ALL Student Information Sessions
+
+Want to speak with a representative of AI4ALL and learn more about Discover AI? Click on the info sessions below for more information and registration link!  You can also visit the AI4ALL eventbrite page  to register .
+
+Ready to Apply?
+
+Click here to access application. Application deadline is February 10, 2023.
+
+Questions?
+
+Contact bpc-programs@cs.illinois.edu.
+
+For more information on AI4ALL and College Pathways, please refer to our website. For questions, please reach out via email at collegepathways@ai-4-all.org."
